@@ -20,7 +20,7 @@ Siga os passos abaixo para rodar o projeto localmente em sua máquina:
 1.  **Clone o repositório**
     
     ```         
-    bash                                                                          Copiar código
+    bash                                                                               Copiar código
     
     git clone https://github.com/seu-usuario/js-game.git
     cd js-game 
@@ -47,7 +47,7 @@ Siga os passos abaixo para rodar o projeto localmente em sua máquina:
 
 
 ```
-plaintext                                                                          Copiar código
+plaintext                                                                               Copiar código
 
 ├── img/
 │   └── ia.png               # Imagem utilizada no jogo
